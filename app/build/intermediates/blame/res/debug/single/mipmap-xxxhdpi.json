@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "F:\\AndroidWorkspace\\AndroidGitHub\\Messenger\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\ic_launcher.png",
+        "source": "F:\\AndroidWorkspace\\AndroidGitHub\\Messenger\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\backup\\Messenger\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\ic_launcher.png",
+        "source": "F:\\backup\\Messenger\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\AndroidWorkspace\\Android GitHub\\Messenger\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\ic_launcher.png",
+        "source": "F:\\AndroidWorkspace\\Android GitHub\\Messenger\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    }
+]

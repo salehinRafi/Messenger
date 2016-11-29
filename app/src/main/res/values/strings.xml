@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Messenger</string>
+    <string name="send">Send Message</string>
+    <string name="showMessage">Here Will Show Message</string>
+    <string name="setMessage">Here Will Set Message</string>
+    <string name="type_here">Type Here:</string>
+</resources>

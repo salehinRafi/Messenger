@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="F:\AndroidWorkspace\AndroidGitHub\Messenger\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\libs\internal_impl-23.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="F:\AndroidWorkspace\AndroidGitHub\Messenger\app\build\intermediates\pre-dexed\debug\internal_impl-23.3.0_1c1d5d66b82b0f416179d7224183a5039ab6efc7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AndroidWorkspace\AndroidGitHub\Messenger\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="F:\AndroidWorkspace\AndroidGitHub\Messenger\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.3.0_9140a70fa66ed6d530a10dde728f0a49599f708a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Hp-1\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.3.0\support-annotations-23.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="F:\AndroidWorkspace\AndroidGitHub\Messenger\app\build\intermediates\pre-dexed\debug\support-annotations-23.3.0_54d59d7e531215a5e5b4a351fac9a4bfb8dd6079.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AndroidWorkspace\AndroidGitHub\Messenger\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="F:\AndroidWorkspace\AndroidGitHub\Messenger\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.3.0_2c8e406dd108bc5d0abd86845b754e3187f4d551.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AndroidWorkspace\AndroidGitHub\Messenger\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="F:\AndroidWorkspace\AndroidGitHub\Messenger\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.3.0_f5894b9ee5dfebe6ecf806644c3362fbfc329aa5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AndroidWorkspace\AndroidGitHub\Messenger\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="F:\AndroidWorkspace\AndroidGitHub\Messenger\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.3.0_97a80557ce664b0db2032650793f995205474157.jar" />
+    </item>
+
+</items>
